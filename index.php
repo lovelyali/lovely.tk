@@ -1,5 +1,5 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
--=[ PUNU-BOT TEAM]=-
+-=[ LOVELY BOT TEAM]=-
 </title><link rel="stylesheet" type="text/css" href="http://cssrhyz.xtgem.com/godofwar.css" media="all,handheld"/><link rel="shortcut icon" href="">
 
 <?php
@@ -129,7 +129,7 @@ if(preg_match('/on/',$if[3])){
         $ek='Powered on';
 }else{
         $tiga='off';
-        $ek='Powered off';
+        $ek='Powered on';
 }
 if(preg_match('/on/',$if[4])){
         $empat='on';
